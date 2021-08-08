@@ -4,7 +4,7 @@ I’m **DaeIn Lee**, *a.k.a*. **Lazy Ren**.<br>
 You may find more about me from my [blog](https://lazyren.github.io/about/) or [resume](https://lazyren.github.io/resume/).
 
 🔭 I’m currently working on SAP Labs Korea<br>
-🌱 I’m currently learning Concurrent Programming / Database(Tranasction) / Modern C++<br>
+🌱 I’m currently learning Rust / Concurrent Programming / Database(Tranasction) / Modern C++<br>
 
 [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-6495ED?logo=Github)](https://lazyren.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:lazy0ren@gmail.com)
